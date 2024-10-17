@@ -1,3 +1,3 @@
 Modificación desde rama main.
-Primera línea creada desde PC.
+Primera línea creada desde PC.Con conflictos desde main.
 Línea añadida desde rama testing.
